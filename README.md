@@ -27,7 +27,7 @@ services:
 
 3. `http://localhost:7700`にアクセスして MeiliSearch の管理画面にアクセス
 
-# API キーの取得
+## API キーの取得
 
 参考サイト 3. より引用
 
@@ -83,7 +83,7 @@ curl   -X GET 'http://localhost:7700/keys'   -H 'Authorization: Bearer KSjeon19d
 }
 ```
 
-# meilisearch にデータを入れる
+## meilisearch にデータを入れる
 
 参考サイト 1. より引用
 
